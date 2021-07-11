@@ -1,0 +1,10 @@
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\bin\Debug\WindowsFormsApptxt.exe.config
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\bin\Debug\WindowsFormsApptxt.exe
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\bin\Debug\WindowsFormsApptxt.pdb
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\obj\Debug\WindowsFormsApptxt.csprojAssemblyReference.cache
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\obj\Debug\WindowsFormsApptxt.Notepad.resources
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\obj\Debug\WindowsFormsApptxt.Properties.Resources.resources
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\obj\Debug\WindowsFormsApptxt.csproj.GenerateResource.cache
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\obj\Debug\WindowsFormsApptxt.csproj.CoreCompileInputs.cache
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\obj\Debug\WindowsFormsApptxt.exe
+C:\Users\ynomyaw\Desktop\WindowsFormsApptxt\WindowsFormsApptxt\obj\Debug\WindowsFormsApptxt.pdb

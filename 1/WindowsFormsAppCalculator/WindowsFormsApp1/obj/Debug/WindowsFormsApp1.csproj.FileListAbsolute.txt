@@ -1,0 +1,10 @@
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calculator.resources
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ynomyaw\Desktop\WindowsFormsAppCalculator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
