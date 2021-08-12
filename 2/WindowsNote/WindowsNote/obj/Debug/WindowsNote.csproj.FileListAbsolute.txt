@@ -1,0 +1,11 @@
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\bin\Debug\WindowsNote.exe.config
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\bin\Debug\WindowsNote.exe
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\bin\Debug\WindowsNote.pdb
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\obj\Debug\WindowsNote.csprojAssemblyReference.cache
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\obj\Debug\WindowsNote.Form1.resources
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\obj\Debug\WindowsNote.Properties.Resources.resources
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\obj\Debug\WindowsNote.csproj.GenerateResource.cache
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\obj\Debug\WindowsNote.csproj.CoreCompileInputs.cache
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\obj\Debug\WindowsNote.exe
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\obj\Debug\WindowsNote.pdb
+C:\Users\ynomyaw\Desktop\WindowsNote\WindowsNote\obj\Debug\WindowsNote.SearchandReplace.resources

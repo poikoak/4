@@ -1,0 +1,10 @@
+C:\Users\ynomyaw\Desktop\boll\boll\bin\Debug\boll.exe.config
+C:\Users\ynomyaw\Desktop\boll\boll\bin\Debug\boll.exe
+C:\Users\ynomyaw\Desktop\boll\boll\bin\Debug\boll.pdb
+C:\Users\ynomyaw\Desktop\boll\boll\obj\Debug\boll.csprojAssemblyReference.cache
+C:\Users\ynomyaw\Desktop\boll\boll\obj\Debug\boll.Form1.resources
+C:\Users\ynomyaw\Desktop\boll\boll\obj\Debug\boll.Properties.Resources.resources
+C:\Users\ynomyaw\Desktop\boll\boll\obj\Debug\boll.csproj.GenerateResource.cache
+C:\Users\ynomyaw\Desktop\boll\boll\obj\Debug\boll.csproj.CoreCompileInputs.cache
+C:\Users\ynomyaw\Desktop\boll\boll\obj\Debug\boll.exe
+C:\Users\ynomyaw\Desktop\boll\boll\obj\Debug\boll.pdb
