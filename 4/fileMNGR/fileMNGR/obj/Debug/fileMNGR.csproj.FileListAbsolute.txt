@@ -1,0 +1,10 @@
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\bin\Debug\fileMNGR.exe.config
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\bin\Debug\fileMNGR.exe
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\bin\Debug\fileMNGR.pdb
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\obj\Debug\fileMNGR.csproj.AssemblyReference.cache
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\obj\Debug\fileMNGR.Form1.resources
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\obj\Debug\fileMNGR.Properties.Resources.resources
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\obj\Debug\fileMNGR.csproj.GenerateResource.cache
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\obj\Debug\fileMNGR.csproj.CoreCompileInputs.cache
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\obj\Debug\fileMNGR.exe
+C:\Users\pofik\Desktop\fileMNGR\fileMNGR\obj\Debug\fileMNGR.pdb
