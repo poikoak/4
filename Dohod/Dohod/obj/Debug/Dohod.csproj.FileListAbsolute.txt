@@ -1,0 +1,11 @@
+C:\Users\pofik\Desktop\Dohod\Dohod\bin\Debug\Dohod.exe.config
+C:\Users\pofik\Desktop\Dohod\Dohod\bin\Debug\Dohod.exe
+C:\Users\pofik\Desktop\Dohod\Dohod\bin\Debug\Dohod.pdb
+C:\Users\pofik\Desktop\Dohod\Dohod\obj\Debug\Dohod.csproj.AssemblyReference.cache
+C:\Users\pofik\Desktop\Dohod\Dohod\obj\Debug\Dohod.Form1.resources
+C:\Users\pofik\Desktop\Dohod\Dohod\obj\Debug\Dohod.Properties.Resources.resources
+C:\Users\pofik\Desktop\Dohod\Dohod\obj\Debug\Dohod.csproj.GenerateResource.cache
+C:\Users\pofik\Desktop\Dohod\Dohod\obj\Debug\Dohod.csproj.CoreCompileInputs.cache
+C:\Users\pofik\Desktop\Dohod\Dohod\obj\Debug\Dohod.exe
+C:\Users\pofik\Desktop\Dohod\Dohod\obj\Debug\Dohod.pdb
+C:\Users\pofik\Desktop\Dohod\Dohod\obj\Debug\Dohod.Form2.resources
